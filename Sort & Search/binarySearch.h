@@ -1,0 +1,1 @@
+int binarySearch(int target, const int *a, size_t length);
